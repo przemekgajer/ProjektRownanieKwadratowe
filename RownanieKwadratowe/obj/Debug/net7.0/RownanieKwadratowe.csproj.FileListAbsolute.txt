@@ -1,0 +1,12 @@
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/bin/Debug/net7.0/RownanieKwadratowe.deps.json
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/bin/Debug/net7.0/RownanieKwadratowe.dll
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/bin/Debug/net7.0/RownanieKwadratowe.pdb
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/obj/Debug/net7.0/RownanieKwadratowe.csproj.AssemblyReference.cache
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/obj/Debug/net7.0/RownanieKwadratowe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/obj/Debug/net7.0/RownanieKwadratowe.AssemblyInfoInputs.cache
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/obj/Debug/net7.0/RownanieKwadratowe.AssemblyInfo.cs
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/obj/Debug/net7.0/RownanieKwadratowe.csproj.CoreCompileInputs.cache
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/obj/Debug/net7.0/RownanieKwadratowe.dll
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/obj/Debug/net7.0/refint/RownanieKwadratowe.dll
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/obj/Debug/net7.0/RownanieKwadratowe.pdb
+/Users/przemyslaw.gajer/Downloads/Dejaa/ProjektRownanieKwadratowe/RownanieKwadratowe/obj/Debug/net7.0/ref/RownanieKwadratowe.dll
