@@ -11,6 +11,10 @@ namespace RownanieKwadratowe
             {
                 return new Tuple<double?, double?>(null, null);
             }
+            else if (delta == 0)
+            {
+                return new Tuple<double?, double?>(-b / (2 * a), null);
+            }
 
         }
     }
